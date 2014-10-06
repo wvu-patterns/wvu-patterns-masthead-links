@@ -1,0 +1,16 @@
+{
+  "name": "wvu-patterns-masthead-links",
+  "version": "0.0.1",
+  "authors": [
+    "Steven Spriggs <steven.spriggs@mail.wvu.edu>"
+  ],
+  "description": "WVU Pattern Library - Masthead Links Module",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
