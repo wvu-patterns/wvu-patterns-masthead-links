@@ -5,25 +5,30 @@ ul.wvu-masthead__links {
   float: right; 
   margin-top: 6px; 
   padding: 0; 
+  
   li { 
     display: inline; 
     list-style-type: none;
-    a { 
-      float: left; 
+    
+    a {
       color: #fff;
-      text-decoration: none; 
-      margin: 0 2px; 
+      float: left;
+      margin: 0 2px;
       padding: 6px 7px;
+      text-decoration: none; 
     }
   }
-  li:first-child a { 
-    margin-left: 0; 
-    padding-left: 0; 
+  
+  li:first-child a {
+    margin-left: 0;
+    padding-left: 0;
   }
+  
   li:last-child a { 
     margin-right: 0; 
     padding-right: 0; 
   }
+  
   a:hover { 
     text-decoration: underline; 
   }
