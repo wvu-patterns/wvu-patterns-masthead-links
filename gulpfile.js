@@ -30,9 +30,9 @@ gulp.task('scss-lint', function() {
 });
 
 gulp.task('rename-scss-partial',function(){
-  return gulp.src('./src/scss/_wvu-footer__links.scss')
-    .pipe(rename('wvu-footer__links.scss'))
-    .pipe(gulp.dest('./build/scss/'));
+  return gulp.src('./src/scss/_wvu-masthead__links.scss')
+    .pipe(rename('wvu-masthead__links.scss'))
+    .pipe(gulp.dest('./build/scss'));
 });
 
 gulp.task('compile-css', ['rename-scss-partial'], function(){
