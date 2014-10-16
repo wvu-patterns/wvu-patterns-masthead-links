@@ -9,21 +9,21 @@ ul.wvu-masthead__links {
   li { 
     display: inline-block;
     line-height: 54px; 
-    list-style-type: none; 
+    list-style-type: none;
+    margin: 0 9px;
     
     a {
       color: #fff;
       float: left;
-      margin: 0 9px;
       text-decoration: none; 
     }
   }
   
-  li:first-child a {
+  li:first-child {
     margin-left: 0;
   }
   
-  li:last-child a { 
+  li:last-child { 
     margin-right: 0; 
   }
   
