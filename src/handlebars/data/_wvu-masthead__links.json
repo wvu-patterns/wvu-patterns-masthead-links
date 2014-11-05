@@ -3,7 +3,7 @@
     "css" : [
       { "src":"css/wvu-masthead__links.css" }
     ],
-    "quickinks" : [
+    "quicklinks" : [
        { "href":"http://www.wvu.edu/SiteIndex/", "text":"A-Z Site Index" },
        { "href":"http://beta.campusmap.wvu.edu/", "text":"Campus Map" },
        { "href":"http://employmentservices.hr.wvu.edu/wvu_jobs", "text":"Jobs" },
