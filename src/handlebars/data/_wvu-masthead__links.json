@@ -1,12 +1,14 @@
 {
-  "css" : [
-    { "src":"css/wvu-masthead__links.css" }
-  ],
-  "wvu-masthead__links" : [
-     { "href":"http://www.wvu.edu/SiteIndex/", "text":"A-Z Site Index" },
-     { "href":"http://beta.campusmap.wvu.edu/", "text":"Campus Map" },
-     { "href":"http://employmentservices.hr.wvu.edu/wvu_jobs", "text":"Jobs" },
-     { "href":"http://directory.wvu.edu/", "text":"Directory" },
-     { "href":"http://www.wvu.edu/", "text":"WVU Home" }
-  ]
+  "_wvu-masthead__links" : {
+    "css" : [
+      { "src":"css/wvu-masthead__links.css" }
+    ],
+    "quickinks" : [
+       { "href":"http://www.wvu.edu/SiteIndex/", "text":"A-Z Site Index" },
+       { "href":"http://beta.campusmap.wvu.edu/", "text":"Campus Map" },
+       { "href":"http://employmentservices.hr.wvu.edu/wvu_jobs", "text":"Jobs" },
+       { "href":"http://directory.wvu.edu/", "text":"Directory" },
+       { "href":"http://www.wvu.edu/", "text":"WVU Home" }
+    ] 
+  }
 }
