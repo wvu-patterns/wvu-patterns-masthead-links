@@ -1,6 +1,6 @@
 {
   "name": "wvu-patterns-masthead-links",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "WVU Pattern Library - Masthead Links Module",
   "main": "gulpfile.js",
   "scripts": {
