@@ -1,15 +1,29 @@
 {
   "name": "wvu-patterns-masthead-links",
+  "homepage": "https://github.com/wvu-patterns/wvu-patterns-masthead-links",
   "version": "0.1.0",
   "authors": [
-    "Steven Spriggs <steven.spriggs@mail.wvu.edu>"
+    "Steven Spriggs <steven.spriggs@mail.wvu.edu>",
+    "Dustin Mazon <dustin.mazon@mail.wvu.edu>"
+  ],
+  "keywords": [
+    "wvu",
+    "west virginia university",
+    "patterns"
   ],
   "description": "WVU Pattern Library - Masthead Links Module",
   "license": "MIT",
+  "main": [
+    "src/cleanslate/_wvu-masthead__links.html",
+    "src/handlebars/data/_wvu-masthead__links.json",
+    "src/handlebars/partials/_wvu-masthead__links.hbs",
+    "src/scss/_wvu-masthead__links.scss"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "build",
     "test",
     "tests"
   ]
